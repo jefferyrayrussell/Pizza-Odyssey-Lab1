@@ -1,53 +1,12 @@
 body {
       font-family: "Prototype";
-      margin: 15 px;
+      background-color: #04020D;
 }
-header,h3,h4,h5 {
+
+h1,h3 {
     color: #9752D0;
-    text-align: left;
 }
 
-form {
-    #AFBF99
-}
-label {
-      text-align: right;
-      margin-right: 15 px;
-      margin-left: 1 px;
-      width:  100 px;
-      display: inline-block;
-}
-input {
-  background-color: #AFBF99;
-  display: inline-block;
-  padding-right: 50 px;
-}
-p {
+h3 {
     color: #AFBF99;
-}
-
-ul {
-  text-align:left;
-}
-
-table {
-   border: 1px solid black;
-   font-style: bold;
-}
-
-th {
-  border: 1px solid black;
-  font-style: bold;
-  text-align: center;
-  padding: 15px;
-}
-
-td {
-  border: 1px solid black;
-  text-align: center;
-  padding: 15px;
-}
-
-h1 {
-  text-align: center;
 }
